@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">App Notas</string>
+    <string name="id">Id Student</string>
+    <string name="name">Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="createEstudent">Create Estudent</string>
+    <string name="listEstudent">List Estudent</string>
+    <string name="idStudent">ID Student</string>
+    <string name="done">Saved successfully</string>
+    <string name="ErrorN1">La Nota 1 esta fuera del rango de Calificación</string>
+    <string name="ErrorN2">La Nota 2 esta fuera del rango de Calificación</string>
+    <string name="ErrorN3">La Nota 3 esta fuera del rango de Calificación</string>
+    <string name="Note1">Note 1</string>
+
+    <string-array name="Menu">
+        <item>@string/createEstudent</item>
+        <item>@string/listEstudent</item>
+    </string-array>
+    <string name="Note2">Note 2</string>
+    <string name="Note3">Nota 3</string>
+    <string name="btn_Save">Save</string>
+    <string name="SeeStudent">See All Student</string>
+
+</resources>

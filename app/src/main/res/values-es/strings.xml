@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Notas</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellidos</string>
+    <string name="id">Documento</string>
+    <string name="createEstudent">Crear Estudiante</string>
+    <string name="listEstudent">Ver Estudiantes</string>
+    <string name="idStudent">Documento Identidad</string>
+    <string name="done">Guardado Satisfactoriamente</string>
+    <string name="ErrorN1">Note 1 is outside the Qualification range</string>
+    <string name="ErrorN2">Note 2 is outside the Qualification range</string>
+    <string name="ErrorN3">Note 3 is outside the Qualification range</string>
+    <string name="Note1">Nota 1</string>
+    <string name="Note2">Nota 2</string>
+    <string name="Note3">Note 3</string>
+    <string name="btn_Save">Guardar</string>
+    <string name="SeeStudent">Ver Todos los Estudiantes</string>
+</resources>
